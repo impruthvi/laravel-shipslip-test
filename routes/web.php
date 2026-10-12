@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/shipslip-check', function () {
-    return 'shipslip ok (guide test)';
+    return 'shipslip ok (staging ahead)';
 });
