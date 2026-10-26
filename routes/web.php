@@ -7,7 +7,7 @@ Route::get('/', function () {
 });
 
 Route::get('/shipslip-check', function () {
-    return 'shipslip ok (staging ahead)';
+    return 'shipslip ok (0.9.0 check 2026-10-26)';
 });
 
 // Shipslip test: one request writes two log lines that share a trace_id.
