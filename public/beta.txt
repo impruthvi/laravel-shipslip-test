@@ -1,1 +1,2 @@
 beta happy path 2026-11-02T16:35:59Z
+beta quit-app check 2026-11-02T16:50:55Z
