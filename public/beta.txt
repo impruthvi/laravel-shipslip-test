@@ -1,2 +1,1 @@
-beta happy path 2026-11-02T16:35:59Z
-beta quit-app check 2026-11-02T16:50:55Z
+stop-after Mon Nov  2 22:37:14 IST 2026
