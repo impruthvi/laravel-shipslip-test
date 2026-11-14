@@ -17,3 +17,7 @@ Route::get('/shipslip-trace', function () {
 
     return 'shipslip trace ok';
 });
+
+Route::get('/health', function () {
+    return response()->json(['ok' => true]);
+});
